@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | 尹幽潭的个人主页</title>
+    <title>Publications | cuteyyt&#39;s homepage</title>
     <link>https://cuteyyt.github.io/zh/publication/</link>
       <atom:link href="https://cuteyyt.github.io/zh/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>Last updated on 2021/8/18</copyright><lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cuteyyt.github.io/media/icon_hua52850fda936a8e4d0e86fc1784713c1_59943_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,22 +13,19 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://cuteyyt.github.io/zh/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://cuteyyt.github.io/zh/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Training Generative Adversarial Networks in One Stage</title>
+      <link>https://cuteyyt.github.io/zh/publication/shen2021training/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://cuteyyt.github.io/zh/publication/shen2021training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive Network Grafting for Few-Shot Knowledge Distillation</title>
+      <link>https://cuteyyt.github.io/zh/publication/shen2021progressive/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://cuteyyt.github.io/zh/publication/shen2021progressive/</guid>
+      <description></description>
     </item>
     
   </channel>

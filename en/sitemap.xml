@@ -2,180 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cuteyyt.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cuteyyt.github.io/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cuteyyt.github.io/"
-                />
-  </url><url>
-    <loc>https://cuteyyt.github.io/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cuteyyt.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cuteyyt.github.io/zh/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cuteyyt.github.io/event/"
-                />
-  </url><url>
-    <loc>https://cuteyyt.github.io/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cuteyyt.github.io/zh/tag/academic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cuteyyt.github.io/tag/academic/"
-                />
-  </url><url>
-    <loc>https://cuteyyt.github.io/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cuteyyt.github.io/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cuteyyt.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://cuteyyt.github.io/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cuteyyt.github.io/zh/category/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cuteyyt.github.io/category/demo/"
-                />
-  </url><url>
-    <loc>https://cuteyyt.github.io/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cuteyyt.github.io/zh/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cuteyyt.github.io/post/"
-                />
-  </url><url>
-    <loc>https://cuteyyt.github.io/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cuteyyt.github.io/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cuteyyt.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://cuteyyt.github.io/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cuteyyt.github.io/zh/post/getting-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cuteyyt.github.io/post/getting-started/"
-                />
-  </url><url>
-    <loc>https://cuteyyt.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cuteyyt.github.io/zh/tag/%E5%BC%80%E6%BA%90/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cuteyyt.github.io/tag/%E5%BC%80%E6%BA%90/"
-                />
-  </url><url>
-    <loc>https://cuteyyt.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cuteyyt.github.io/zh/category/%E6%95%99%E7%A8%8B/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cuteyyt.github.io/category/%E6%95%99%E7%A8%8B/"
-                />
-  </url><url>
-    <loc>https://cuteyyt.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cuteyyt.github.io/zh/tag/deep-learning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cuteyyt.github.io/tag/deep-learning/"
-                />
-  </url><url>
-    <loc>https://cuteyyt.github.io/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cuteyyt.github.io/zh/project/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cuteyyt.github.io/project/example/"
-                />
-  </url><url>
-    <loc>https://cuteyyt.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cuteyyt.github.io/zh/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cuteyyt.github.io/project/"
-                />
-  </url><url>
     <loc>https://cuteyyt.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -187,21 +15,21 @@
                 href="https://cuteyyt.github.io/publication-type/1/"
                 />
   </url><url>
-    <loc>https://cuteyyt.github.io/publication/example/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://cuteyyt.github.io/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://cuteyyt.github.io/zh/publication/example/"
+                href="https://cuteyyt.github.io/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cuteyyt.github.io/publication/example/"
+                href="https://cuteyyt.github.io/"
                 />
   </url><url>
     <loc>https://cuteyyt.github.io/publication_types/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -214,7 +42,7 @@
                 />
   </url><url>
     <loc>https://cuteyyt.github.io/publication/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -224,6 +52,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://cuteyyt.github.io/publication/"
+                />
+  </url><url>
+    <loc>https://cuteyyt.github.io/publication/shen2021training/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cuteyyt.github.io/zh/publication/shen2021training/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cuteyyt.github.io/publication/shen2021training/"
+                />
+  </url><url>
+    <loc>https://cuteyyt.github.io/publication/shen2021progressive/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cuteyyt.github.io/zh/publication/shen2021progressive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cuteyyt.github.io/publication/shen2021progressive/"
                 />
   </url><url>
     <loc>https://cuteyyt.github.io/admin/</loc>
@@ -236,6 +90,30 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://cuteyyt.github.io/admin/"
+                />
+  </url><url>
+    <loc>https://cuteyyt.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cuteyyt.github.io/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cuteyyt.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://cuteyyt.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cuteyyt.github.io/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cuteyyt.github.io/tags/"
                 />
   </url>
 </urlset>
