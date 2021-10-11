@@ -1,5 +1,3 @@
-# cuteyyt.github.io
+# Introduction
 
-This is my homepage [(preview)](https://cuteyyt.github.io) made by the following sources:
-
-And I follow the docs below: 
+This is my academic homepage [(preview)](https://cuteyyt.github.io) on the basis of this repo: [yaoyao-liu/minimal-light](https://github.com/yaoyao-liu/minimal-light). Thanks for his work!
