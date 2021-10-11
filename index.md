@@ -5,11 +5,15 @@ layout: homepage
 ## About Me
 
 I am a senior student at **Zhejiang University**, major in *Computer Science and Technology*, advised by *[Professor Mingli Song](https://www.vipazoo.cn/people/songmingli)*. 
-<!-- [[CV]](./resources/Youtan_YIN_CV.pdf) -->
+<br>
+<br>
+[[My Resume]](./resources/Youtan_YIN_resume.pdf)
 
 ## Education
 
-- **Bachelor of Engineering** expected in June 2022.
+- **Bachelor of Engineering**, expected in June 2022, *Zhejiang University*
+- **Research Assistant**, advised by *Prof Qi Dou*, June 2021-Aug 2021, *The Chinese University of HongKong*
+- **Research Assistant**, advised by *Prof Gousheng Lin*, Aug 2021-Present, *Nanyang Technological University*
 
 ## Research Interests
 
