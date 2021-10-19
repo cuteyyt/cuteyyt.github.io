@@ -7,7 +7,7 @@ layout: homepage
 I am a senior student at **Zhejiang University**, major in *Computer Science and Technology*, advised by *[Professor Mingli Song](https://www.vipazoo.cn/people/songmingli)*. 
 <br>
 <br>
-[[My Resume]](./resources/Youtan_YIN_resume.pdf)
+[[My Resume]](./resources/Youtan_YIN_Resume.pdf)
 
 ## Education
 
