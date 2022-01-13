@@ -6,8 +6,8 @@ layout: homepage
 
 I am a senior student at **Zhejiang University**, major in *Computer Science and Technology*, advised by *[Professor Mingli Song](https://www.vipazoo.cn/people/songmingli)*. 
 <br>
-<br>
-[[My Resume]](resources/Youtan_Yin_Resume.pdf)
+<!-- <br> -->
+<!-- [[My Resume]](resources/Youtan_Yin_Resume.pdf) -->
 
 ## Education
 
@@ -35,5 +35,3 @@ I am a senior student at **Zhejiang University**, major in *Computer Science and
   Thirty-Fifth AAAI Conference on Artificial Intelligence. **AAAI 2021**.
   <br>
   [[PDF]](https://arxiv.org/abs/2012.04915) [[Code]](https://github.com/zju-vipa/NetGraft) 
-
-**This website was updated on 12/13/2021**

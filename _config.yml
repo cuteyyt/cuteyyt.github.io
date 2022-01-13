@@ -3,11 +3,14 @@ position: Senior Student
 affiliation: Zhejiang University
 email: youtanyin@zju.edu.cn
 keywords: minimal academic
+# cv: resources/Youtan_Yin_Resume.pdf
+# email_address: youtanyin@zju.edu.cn
+cv: resources/Youtan_Yin_Resume.pdf
 google_scholar: https://scholar.google.com
 github_link: https://github.com/cuteyyt
 linkedin: https://www.linkedin.com
 avatar: ./assets/img/avatar.png
-google_analytics: UA-111540567-4
+# google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon.png
 description: Youtan YIN's homepage
