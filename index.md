@@ -11,7 +11,7 @@ I am a senior student at **Zhejiang University**, major in *Computer Science and
 
 ## Education
 
-- **Bachelor of Engineering**, expected in June 2022, *Zhejiang University*
+- **Bachelor of Engineering**, advised by *Prof Mingli Song*, 2018-2022, *Zhejiang University*
 - **Research Assistant**, advised by *Prof Gousheng Lin*, July 2021-Present, *Nanyang Technological University*
 
 ## Research Interests
