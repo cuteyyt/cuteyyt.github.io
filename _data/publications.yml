@@ -1,7 +1,7 @@
 main:
 
   - title: "Efficient Federated Tumor Segmentation via Normalized Tensor Aggregation and Client Pruning"
-    authors: <strong>*Youtan Yin</strong>, <strong>*</strong>Hongzheng Yang, Quande Liu, Meirui Jiang, Cheng Chen, Qi Dou & Pheng-Ann Heng
+    authors: <strong>*Youtan Yin</strong>, <strong>*</strong>Hongzheng Yang, Quande Liu, Meirui Jiang, Cheng Chen, Qi Dou, Pheng-Ann Heng
 #    conference_short: BrainLes 2021
     conference: 7th edition of the Brain Lesion (BrainLes) workshop, (in conjunction with MICCAI), 2021.
     pdf: https://link.springer.com/chapter/10.1007/978-3-031-09002-8_38
