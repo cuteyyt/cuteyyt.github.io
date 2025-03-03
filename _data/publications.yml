@@ -1,34 +1,24 @@
 main:
 
-#  - title: "Efficient Federated Tumor Segmentation via Normalized Tensor Aggregation and Client Pruning"
-#    authors: <strong>*Youtan Yin</strong>, <strong>*</strong>Hongzheng Yang, Quande Liu, Meirui Jiang, Cheng Chen, Qi Dou, Pheng-Ann Heng
-##    conference_short: BrainLes 2021
-#    conference: 7th edition of the Brain Lesion (BrainLes) workshop, (in conjunction with MICCAI), 2021.
-#    pdf: https://link.springer.com/chapter/10.1007/978-3-031-09002-8_38
-##    code:
-##    page:
-#    bibtex: ./assets/bibtex/yin2021efficient.tex
-##    image:
-##    notes:
+  - title: "Efficient Federated Tumor Segmentation via Normalized Tensor Aggregation and Client Pruning"
+    authors: <strong>*Youtan Yin</strong>, <strong>*</strong>Hongzheng Yang, Quande Liu, Meirui Jiang, Cheng Chen, Qi Dou, Pheng-Ann Heng
+    conference: 7th edition of the Brain Lesion (BrainLes) workshop, (in conjunction with MICCAI), 2021.
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-09002-8_38
+    bibtex: ./assets/bibtex/yin2021efficient.tex
+    notes: Technical Report
 
   - title: "Training Generative Adversarial Networks in One Stage"
     authors: Chengchao Shen, <strong>Youtan Yin</strong>, Xinchao Wang, Xubin Li, Jie Song, Mingli Song
-#    conference_short: CVPR
     conference: IEEE/CVF Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2021.
     pdf: https://openaccess.thecvf.com/content/CVPR2021/papers/Shen_Training_Generative_Adversarial_Networks_in_One_Stage_CVPR_2021_paper.pdf
     code: https://github.com/zju-vipa/OSGAN
-#    page:
     bibtex: ./assets/bibtex/shen2021training.tex
-#    image:
     notes: Poster
 
   - title: "Progressive network grafting for few-shot knowledge distillation"
     authors: Chengchao Shen, Xinchao Wang, <strong>Youtan Yin</strong>, Jie Song, Sihui Luo, Mingli Song
-#    conference_short: AAAI
     conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2021.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/16356/16163
     code: https://github.com/zju-vipa/NetGraft
-#    page:
     bibtex: ./assets/bibtex/shen2021progressive.tex
-    image:
     notes: Poster
