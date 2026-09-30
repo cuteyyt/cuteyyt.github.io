@@ -1,0 +1,119 @@
+.about-page .post-title,
+.about-page h2 {
+  text-align: left;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.about-page .post-header {
+  margin-bottom: 1.5rem;
+  .desc { margin-bottom: 0; }
+}
+
+.about-intro {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 240px;
+  gap: 2.5rem;
+  align-items: start;
+  margin-bottom: 1.5rem;
+
+  .about-copy {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    min-width: 0;
+    > p, > h2 { margin: 0; }
+    .news table { margin-bottom: 0; }
+  }
+
+  .profile {
+    width: 100%;
+    margin: 0;
+    figure { margin: 0; }
+    .more-info {
+      margin: 0.75rem 0 0;
+      font-size: 0.85rem;
+      text-align: center;
+      overflow-wrap: anywhere;
+    }
+  }
+}
+
+@media (max-width: 767px) {
+  .about-intro {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.5rem;
+    .profile {
+      order: -1;
+      max-width: 240px;
+      justify-self: center;
+    }
+  }
+}
+
+.publications {
+  .publication-with-preview { align-items: flex-start; }
+  .preview-column {
+    figure { margin: 0; }
+    img { display: block; }
+  }
+
+  .badge-inline {
+    display: inline-block;
+    background-color: var(--global-theme-color);
+    color: var(--global-card-bg-color) !important;
+    padding: 0.15rem 0.55rem;
+    margin-right: 0.55rem;
+    margin-bottom: 0.35rem;
+    font-size: 0.85rem;
+    font-weight: 500;
+    text-decoration: none;
+    vertical-align: middle;
+    line-height: 1.4;
+
+    a { color: inherit !important; text-decoration: none; }
+  }
+
+  .links button.btn {
+    background: transparent;
+    color: var(--global-text-color);
+    border: 1px solid var(--global-text-color);
+    padding: 0.25rem 1rem;
+    margin-left: 0;
+    cursor: pointer;
+
+    &:hover {
+      color: var(--global-theme-color);
+      border-color: var(--global-theme-color);
+    }
+    &.award { border-color: var(--global-highlight-color); }
+  }
+
+  .author button.more-authors {
+    display: inline;
+    background: transparent;
+    color: var(--global-text-color-light);
+    font: inherit;
+    padding: 0;
+    border: 0;
+    border-bottom: 1px dashed currentColor;
+    cursor: pointer;
+    text-align: left;
+
+    &:hover { color: var(--global-text-color); }
+  }
+
+  button:focus-visible {
+    outline: 2px solid var(--global-theme-color);
+    outline-offset: 3px;
+  }
+  .code-display-wrapper {
+    padding-top: 1.75rem;
+    .copy { opacity: 1; }
+  }
+  [hidden] { display: none !important; }
+}
+
+@media (max-width: 575px) {
+  .publications .preview-column { margin-bottom: 0.75rem; }
+}

@@ -5,9 +5,10 @@ permalink: /
 subtitle: PhD Student at <a href='https://www.ntu.edu.sg/'>NTU Singapore</a>. Research Intern at Tencent AIPD.
 
 profile:
-  align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_alt: Portrait of Youtan Yin
+  image_width: 640
+  image_height: 818
   more_info: >
     <p><a href='mailto:youtan001@e.ntu.edu.sg'>youtan001 [at] e.ntu.edu.sg</a></p>
 
@@ -16,11 +17,6 @@ social: true
 
 announcements:
   enabled: true
-  scrollable: true
-  limit: 5
-
-latest_posts:
-  enabled: false
 ---
 
 I am a PhD student at the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University (NTU, Singapore), supervised by [Prof. Lin Guosheng](https://guosheng.github.io/). I am currently also a Research Intern at Tencent AIPD.
